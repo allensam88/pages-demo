@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Sam
 ---
 
 ## Welcome to your first post
