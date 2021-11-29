@@ -1,5 +1,6 @@
 ---
 layout: post
+title: First Post!
 author: Sam
 ---
 
