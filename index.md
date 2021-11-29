@@ -6,9 +6,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-[Link to first post](./first-post.html).
+[first post](./first-post.html).
 
-[Link to borked 404](./broken.html).
+[Table of Contents](./table-of-contents.html).
+
+[404 example](./borked.html).
 
 There should be whitespace between paragraphs.
 
